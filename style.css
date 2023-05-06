@@ -389,6 +389,7 @@ img {
   padding-right: 24px;
   padding-left: 24px;
   color: rgba(101, 101, 101, 0.74);
+  outline:none;
 }
 .form__textarea {
   box-sizing: border-box;
@@ -405,6 +406,7 @@ img {
   border-radius: 3px;
   padding: 21px 24px;
   border: none;
+  outline:none;
 }
 
 .button {
